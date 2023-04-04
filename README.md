@@ -1,11 +1,11 @@
 # VerificadorTLSNet
 Este proyecto es una aplicación de consola desarrollada en C# que verifica si el sistema Windows tiene habilitada alguna versión de TLS y realiza una petición HTTP utilizando cada versión de TLS habilitada.
 
-#Requisitos
+# Requisitos
 
 .NET 6 SDK instalado en tu equipo.
 
-#Cómo ejecutar la aplicación
+# Cómo ejecutar la aplicación
 
 Clona o descarga el repositorio.
 Abre una terminal o línea de comandos en la carpeta raíz del proyecto.
@@ -19,5 +19,5 @@ Ejecuta el siguiente comando para ejecutar la aplicación:
 
 ./VerificadorTLSNet.exe
 
-#Licencia
+# Licencia
 Este proyecto está licenciado bajo la licencia MIT.
